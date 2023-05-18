@@ -6,19 +6,20 @@ This is a backup of all my notes of the Analysis course of the Computer Science 
 ## Lecture Notes
 
 
-- [Lecture 01 - Revision.pdf](./Lecture%2001%20-%20Revision.pdf)
-- [Lecture 02 - Induction.pdf](./Lecture%2002%20-%20Induction.pdf)
-- [Lecture 03 - Sequences.pdf](./Lecture%2003%20-%20Sequences.pdf)
-- [Lecture 04 - Series.pdf](./Lecture%2004%20-%20Series.pdf)
-- [Lecture 05 - Tests.pdf](./Lecture%2005%20-%20Tests.pdf)
-- [Lecture 06 - Functions.pdf](./Lecture%2006%20-%20Functions.pdf)
-- [Lecture 07 - Limits.pdf](./Lecture%2007%20-%20Limits.pdf)
-- [Lecture 08 - Tangent.pdf](./Lecture%2008%20-%20Tangent.pdf)
-- [Lecture 09 - Derivatives.pdf](./Lecture%2009%20-%20Derivatives.pdf)
-- [Lecture 10 - INC and DEC.pdf](./Lecture%2010%20-%20INC%20and%20DEC.pdf)
-- [Lecture 11 - L'Hopital.pdf](./Lecture%2011%20-%20L'Hopital.pdf)
-- [Lecture 12 - Asymptotes, INF.pdf](./Lecture%2012%20-%20Asymptotes%2C%20INF.pdf)
-- [Lecture 13 - Taylor.pdf](./Lecture%2013%20-%20Taylor.pdf)
+- [Lecture 01 - Revision](./Lecture%2001%20-%20Revision.pdf)
+- [Lecture 02 - Induction](./Lecture%2002%20-%20Induction.pdf)
+- [Lecture 03 - Sequences](./Lecture%2003%20-%20Sequences.pdf)
+- [Lecture 04 - Series](./Lecture%2004%20-%20Series.pdf)
+- [Lecture 05 - Tests](./Lecture%2005%20-%20Tests.pdf)
+- [Lecture 06 - Functions](./Lecture%2006%20-%20Functions.pdf)
+- [Lecture 07 - Limits](./Lecture%2007%20-%20Limits.pdf)
+- [Lecture 08 - Tangent](./Lecture%2008%20-%20Tangent.pdf)
+- [Lecture 09 - Derivatives](./Lecture%2009%20-%20Derivatives.pdf)
+- [Lecture 10 - INC and DEC](./Lecture%2010%20-%20INC%20and%20DEC.pdf)
+- [Lecture 11 - L'Hopital](./Lecture%2011%20-%20L'Hopital.pdf)
+- [Lecture 12 - Asymptotes, INF](./Lecture%2012%20-%20Asymptotes%2C%20INF.pdf)
+- [Lecture 13 - Taylor](./Lecture%2013%20-%20Taylor.pdf)
+- [Lecture 14 - Integrals](./Lecture%2014%20-%20Integrals.pdf)
 
 
 ## Syllabus
