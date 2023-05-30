@@ -20,6 +20,9 @@ This is a backup of all my notes of the Analysis course of the Computer Science 
 - [Lecture 12 - Asymptotes, INF](./Lecture%2012%20-%20Asymptotes%2C%20INF.pdf)
 - [Lecture 13 - Taylor](./Lecture%2013%20-%20Taylor.pdf)
 - [Lecture 14 - Integrals](./Lecture%2014%20-%20Integrals.pdf)
+- [Lecture 15 - Antiderivatives](./Lecture%2015%20-%20Antiderivative.pdf)
+- [Lecture 16 - Piecewise](./Lecture%2016%20-%20Piecewise.pdf)
+- [Lecture 17 - Improper Integrals](./Lecture%2017%20-%20Improper%20Integrals.pdf)
 
 
 ## Syllabus
